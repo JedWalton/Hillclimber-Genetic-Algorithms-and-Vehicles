@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-#from simple_agent import run
 
 def run(T,initial_pos,initial_bearing,geno,plot_flag):
 

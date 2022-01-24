@@ -1,8 +1,7 @@
 #Vehicles
-#Required contentCW 2 (Vehicles) -Minimal required  technical achievementsDemonstrate solution to the
-# aggressor, lover, explorer, and cowardAttempt a one-eyed phototaxis solution.-Questions that must be addressed.
-# Discuss how rich behavior emerges from a simple brain (please look at sources on Braitenberg Vehicles)Discuss the
-# difference between the behavioral strategies for one-eyed and two-eyed phototaxis.
+# aggressor, lover, explorer, and cowardAttempt a one-eyed phototaxis solution implemented using Braitenberg
+# machine.
+# Rich behavior emerges from a simple brain.
 
 from simple_agent import run
 import numpy as np
