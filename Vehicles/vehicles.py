@@ -1,7 +1,6 @@
 #Vehicles
 # aggressor, lover, explorer, and cowardAttempt a one-eyed phototaxis solution implemented using Braitenberg
-# machine.
-# Rich behavior emerges from a simple brain.
+# machine to demonstrate how rich behavior emerges from a simple brain.
 
 from simple_agent import run
 import numpy as np
