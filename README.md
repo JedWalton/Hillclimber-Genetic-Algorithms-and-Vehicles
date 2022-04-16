@@ -18,3 +18,8 @@ Goals:
 1. Maximize ![image](https://user-images.githubusercontent.com/48734358/163673877-2e5b0f20-37f7-4a5c-9c76-15a427e560d0.png)
 subject to constraint ![image](https://user-images.githubusercontent.com/48734358/163673885-97991ddf-4afe-456c-9264-95f232057120.png) using the data ![image](https://user-images.githubusercontent.com/48734358/163673892-b83bf629-4c60-49a1-a3b2-ec859c2172ce.png)
 
+![image](https://user-images.githubusercontent.com/48734358/163673919-0406fb89-a560-4a6c-a275-cc0f26f57963.png)
+
+![image](https://user-images.githubusercontent.com/48734358/163673926-243a8a4c-897f-4740-b011-8152f7f19bcf.png)
+
+![image](https://user-images.githubusercontent.com/48734358/163673929-34c09f4e-241c-4755-8522-8eff5cec1004.png)
